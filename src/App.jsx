@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 
 import Home from "./Home";
-import CampaignDemo from "./page/Campaign/CampaignDemo"; // your folder name is "page"
+import CampaignDemo from "./page/Campaign/CampaignDemo";
 
 export default function App() {
   return (

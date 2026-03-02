@@ -1,7 +1,7 @@
 export const demoCampaign = {
   _id: "demo1",
-  title: "Support Knowledge World",
-  slug: "support-knowledge-world",
+  title: "IQRA Education School",
+  slug: "IQRA Education School",
   description:
     "Transparent crowdfunding : daily toppers and real-time donation feed.",
   goalAmount: 5000000,
